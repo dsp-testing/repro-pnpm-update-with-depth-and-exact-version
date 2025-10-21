@@ -1,0 +1,7 @@
+{
+  "name": "repro-pnpm-update-with-depth-and-exact-version",
+  "devDependencies": {
+    "vitest": "3.2.4"
+  },
+  "packageManager": "pnpm@10.18.3"
+}
